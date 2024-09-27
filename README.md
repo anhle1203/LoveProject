@@ -4,4 +4,4 @@ A simple static webpage as a gift for my girlfriend . Although a personal projec
 You can check this out with 
 
 <br>
-Link: https://anhle1203.github.io.
+Link: https://github.com/anhle1203/sinhnhatChi20tuoi
